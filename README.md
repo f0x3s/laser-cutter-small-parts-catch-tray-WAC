@@ -8,14 +8,17 @@ This is a small parts catch tray upgrade for an Omtech SH-G570 60W CO2 Laser Cut
 >   - 🗒️ [`small_parts_catch_tray_v3_flat_WAC.dxf`](dxf/small_parts_catch_tray_v3_flat_WAC.dxf) — *DXF flat pattern for fiber laser*
 > - 🗒️ [`small_parts_catch_tray_v3_drawing_WAC.pdf`](small_parts_catch_tray_v3_drawing_WAC.pdf) — *Engineering drawing for fabrication and assembly*
 
-_tray to be cut from 12ga Stainless Steel; approx flat pattern dimensions: 36x24"_
+_Tray to be cut from 12ga Stainless Steel; approx flat pattern dimensions: 36x24"_
 ## Parts List
+_Note: qty given as needed for assembly, without respect to package quantity from sources_
+
 _Requires 1x [`small_parts_catch_tray_v3_flat_WAC.dxf`](dxf/small_parts_catch_tray_v3_flat_WAC.dxf)_
 | qty | name | source |
 | ------------: | :-----------: | :-----------: |
 | 2 | M3 washer | [McMaster](https://www.mcmaster.com/93475A210/) |
 | 2 | M3 12mm button screw | [McMaster](https://www.mcmaster.com/92095A183/) |
 | 2 | M3 nut | [McMaster](https://www.mcmaster.com/91828A211/) |
+| 4 | Rubber Feet | [Amazon](https://a.co/d/0giqnjOn) |
 
 ## Engineering Drawing
 <p align="center">
