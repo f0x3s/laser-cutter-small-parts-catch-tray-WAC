@@ -1,5 +1,5 @@
 # Laser Cutter Small Parts Catch Tray
-This is a small parts catch tray upgrade for an Omtech SH-G570 60W CO~2 Laser Cutter. It is placed at the bottom of the machine to prevent small parts that fall through the material support slats from interfering with the z-axis belts and allow for easy collection and cleanup of offcuts.
+This is a small parts catch tray upgrade for an Omtech SH-G570 60W CO2 Laser Cutter. It is placed at the bottom of the machine to prevent small parts that fall through the material support slats from interfering with the z-axis belts and allow for easy collection and cleanup of offcuts.
 
 ## Fabrication Files
 > 📂 **[laser-cutter-small-parts-catch-tray-WAC](laser-cutter-small-parts-catch-tray-WAC)/**
