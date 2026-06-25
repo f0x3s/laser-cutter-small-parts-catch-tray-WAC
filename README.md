@@ -23,7 +23,12 @@ _Requires 1x [`small_parts_catch_tray_v3_flat_WAC.dxf`](dxf/small_parts_catch_tr
 
 ## Engineering Drawing
 <p align="center">
-    <img src="media/small_parts_catch_tray_v3_drawing_WAC.png" alt="control flow block diagram" style="width:100%; height:automatic">
+    <img src="media/small_parts_catch_tray_v3_drawing_WAC.png" alt="bend and assembly diagram" style="width:100%; height:automatic">
 </p>
 
 [`small_parts_catch_tray_v3_drawing_WAC.pdf`](small_parts_catch_tray_v3_drawing_WAC.pdf)
+
+<p align="center">
+    <img src="media/small_parts_catch_tray_v3_final_dims_drawing_WAC.png" alt="final dimensions diagram" style="width:100%; height:automatic">
+</p>
+
