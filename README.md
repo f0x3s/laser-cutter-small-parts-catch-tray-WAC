@@ -29,7 +29,7 @@ _Requires 1x [`small_parts_catch_tray_v3_flat_WAC.dxf`](dxf/small_parts_catch_tr
 </p>
 
 ### Final Bent Dimensions for Press Brake Tooling Calculations
-[`small_parts_catch_tray_v3_final_dims_drawingWAC.pdf`](small_parts_catch_tray_v3_final_dims_drawingWAC.pdf)
+[`small_parts_catch_tray_v3_final_dims_drawingWAC.pdf`](small_parts_catch_tray_v3_final_dims_drawing_WAC.pdf)
 <p align="center">
     <img src="media/small_parts_catch_tray_v3_final_dims_drawing_WAC.png" alt="final dimensions diagram" style="width:100%; height:automatic">
 </p>
