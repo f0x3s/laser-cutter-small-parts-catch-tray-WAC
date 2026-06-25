@@ -7,7 +7,7 @@ This is a small parts catch tray upgrade for an Omtech SH-G570 60W CO2 Laser Cut
 >   - 🗒️ [`small_parts_catch_tray_v3_bendlines_WAC.dxf`](dxf/small_parts_catch_tray_v3_bendlines_WAC.dxf) — *DXF with bend center and extent lines noted*
 >   - 🗒️ [`small_parts_catch_tray_v3_flat_WAC.dxf`](dxf/small_parts_catch_tray_v3_flat_WAC.dxf) — *DXF flat pattern for fiber laser*
 > - 🗒️ [`small_parts_catch_tray_v3_drawing_WAC.pdf`](small_parts_catch_tray_v3_drawing_WAC.pdf) — *Engineering drawing for fabrication and assembly*
-> - 🗒️ [`small_parts_catch_tray_v3_final_Dims_drawingWAC.pdf`](small_parts_catch_tray_v3_final_Dims_drawingWAC.pdf) — *Final Dimensions for press brake tooling calculations*
+> - 🗒️ [`small_parts_catch_tray_v3_final_dims_drawingWAC.pdf`](small_parts_catch_tray_v3_final_dims_drawingWAC.pdf) — *Final Dimensions for press brake tooling calculations*
 
 _Tray to be cut from 12ga Stainless Steel; approx flat pattern dimensions: 36x24"_
 ## Parts List
@@ -21,14 +21,15 @@ _Requires 1x [`small_parts_catch_tray_v3_flat_WAC.dxf`](dxf/small_parts_catch_tr
 | 2 | M3 nut | [McMaster](https://www.mcmaster.com/91828A211/) |
 | 4 | Rubber Feet | [Amazon](https://a.co/d/0giqnjOn) |
 
-## Engineering Drawing
+## Engineering Drawings
+### Bend and Assembly Guide 
+[`small_parts_catch_tray_v3_drawing_WAC.pdf`](small_parts_catch_tray_v3_drawing_WAC.pdf)
 <p align="center">
     <img src="media/small_parts_catch_tray_v3_drawing_WAC.png" alt="bend and assembly diagram" style="width:100%; height:automatic">
 </p>
 
-[`small_parts_catch_tray_v3_drawing_WAC.pdf`](small_parts_catch_tray_v3_drawing_WAC.pdf)
-
+### Final Bent Dimensions for Press Brake Tooling Calculations
+[`small_parts_catch_tray_v3_final_dims_drawingWAC.pdf`](small_parts_catch_tray_v3_final_dims_drawingWAC.pdf)
 <p align="center">
     <img src="media/small_parts_catch_tray_v3_final_dims_drawing_WAC.png" alt="final dimensions diagram" style="width:100%; height:automatic">
 </p>
-
